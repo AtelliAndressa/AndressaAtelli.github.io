@@ -1,2 +1,2 @@
-# AndressaAtelli.github.io
+# AndressaAtelli
 curriculum web
